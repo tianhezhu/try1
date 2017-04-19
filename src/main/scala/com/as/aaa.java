@@ -6,6 +6,7 @@ package com.as;
 public class aaa {
 
     public void aad(){
+        System.out.println("ddssdda");
         System.out.println("addssdd");
     }
 }
